@@ -1,6 +1,6 @@
 # TaqwinQu - Media Pembelajaran Interaktif Doa Harian
 
-Aplikasi **TaqwinQu** adalah program komputer berbasis media pembelajaran interaktif yang dirancang khusus untuk memfasilitasi hafalan doa harian siswa jenjang TK B di lembaga PAUDQU At-Takwin. Aplikasi ini dikembangkan sebagai bentuk inovasi digital guna mengatasi keterbatasan metode hafalan konvensional di kelas serta menyediakan standar contoh pelafalan doa (Tahsin) yang konsisten dan selaras dengan target kurikulum lembaga.
+**TaqwinQu** adalah game media pembelajaran interaktif yang dirancang khusus untuk memfasilitasi hafalan doa harian siswa jenjang TK B di lembaga PAUDQU At-Takwin. game ini dikembangkan sebagai bentuk inovasi digital guna mengatasi keterbatasan metode hafalan konvensional di kelas serta menyediakan standar contoh pelafalan doa (Tahsin) yang konsisten dan selaras dengan target kurikulum lembaga.
 
 ## Fitur dan Isi Konten Game
 * **Eksplorasi Kontekstual (Point-and-Click):** Mekanisme penjelajahan ruangan simulasi di mana pengguna dapat berpindah ke ruangan yang diinginkan cukup dengan menekan ikon ruangan yang tersedia pada peta navigasi utama (Halaman Map). Isi ruangan kontekstual meliputi:
