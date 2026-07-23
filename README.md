@@ -29,9 +29,9 @@
 ## Instalasi dan Cara Bermain
 * **Unduh file game melalui tautan di bawah.**
 
-* **Ekstrak file .zip atau .rar (jika ada) ke dalam satu folder di komputer Windows kamu.**
+* **Ekstrak file .rar**
 
-* **Jalankan file TaqwinQu.exe (atau nama file eksekusinya).**
+* **Jalankan file .exe.**
 
 * **Gunakan mouse (Klik Kiri) untuk berinteraksi dengan antarmuka, menavigasi peta, dan memicu objek interaktif.**
 
