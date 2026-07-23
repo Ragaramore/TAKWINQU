@@ -25,3 +25,6 @@
 * **Code Editor:** Visual Studio Code
 * **Arsitektur Data:** Unity ScriptableObject (Penyimpanan Data Lokal Offline)
 * **Target Platform:** Perangkat Desktop Windows (.exe) Aspect Ratio 16:9
+
+Game Download : https://drive.google.com/file/d/1jCEtEJl9To0L72Higne5wtBO22GGqISs/view?usp=sharing
+Sprites Sources : https://drive.google.com/file/d/1zu1JAQZwGtEyDdmXg6_NAHJbBZ7ZvyGh/view?usp=sharing
