@@ -26,6 +26,15 @@
 * **Arsitektur Data:** Unity ScriptableObject (Penyimpanan Data Lokal Offline)
 * **Target Platform:** Perangkat Desktop Windows (.exe) Aspect Ratio 16:9
 
-## LINK GAME AND SPRITES SOURCES
+## Instalasi dan Cara Bermain
+Unduh file game melalui tautan di bawah.
+
+Ekstrak file .zip atau .rar (jika ada) ke dalam satu folder di komputer Windows kamu.
+
+Jalankan file TaqwinQu.exe (atau nama file eksekusinya).
+
+Gunakan mouse (Klik Kiri) untuk berinteraksi dengan antarmuka, menavigasi peta, dan memicu objek interaktif.
+
+## Tautan Penting 
 * **Game Download : https://drive.google.com/file/d/1jCEtEJl9To0L72Higne5wtBO22GGqISs/view?usp=sharing**
 * **Sprites Sources : https://drive.google.com/file/d/1zu1JAQZwGtEyDdmXg6_NAHJbBZ7ZvyGh/view?usp=sharing**
