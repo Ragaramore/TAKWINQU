@@ -27,13 +27,13 @@
 * **Target Platform:** Perangkat Desktop Windows (.exe) Aspect Ratio 16:9
 
 ## Instalasi dan Cara Bermain
-Unduh file game melalui tautan di bawah.
+* **Unduh file game melalui tautan di bawah.**
 
-Ekstrak file .zip atau .rar (jika ada) ke dalam satu folder di komputer Windows kamu.
+* **Ekstrak file .zip atau .rar (jika ada) ke dalam satu folder di komputer Windows kamu.**
 
-Jalankan file TaqwinQu.exe (atau nama file eksekusinya).
+* **Jalankan file TaqwinQu.exe (atau nama file eksekusinya).**
 
-Gunakan mouse (Klik Kiri) untuk berinteraksi dengan antarmuka, menavigasi peta, dan memicu objek interaktif.
+* **Gunakan mouse (Klik Kiri) untuk berinteraksi dengan antarmuka, menavigasi peta, dan memicu objek interaktif.**
 
 ## Tautan Penting 
 * **Game Download : https://drive.google.com/file/d/1jCEtEJl9To0L72Higne5wtBO22GGqISs/view?usp=sharing**
